@@ -1,12 +1,22 @@
 header {
+    padding: 20px 0;
     .header {
+        .logo{
+            
+            color: black;
+        }
         display: flex;
         justify-content: space-between;
         .hom{
             nav{
                 ul{
+                    padding: 20px ;
                     display: flex;
             gap: 50px;
+            a{
+               font-size: 25px; 
+            color: black;
+            }
                 }
             }
         }

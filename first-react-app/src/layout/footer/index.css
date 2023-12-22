@@ -1,0 +1,40 @@
+.top{
+    display: flex;
+    justify-content: space-around;
+}
+.ikon{
+    display: flex;
+    gap: 15px;
+}
+.left{
+    display: flex;
+    justify-content: space-around;
+}
+.footer{
+    padding: 80px 0;
+    background-color: blue;
+}
+button{
+    width: 50px;
+    height: 25px;
+}
+input{
+    width: 250px;
+    height: 25px;
+}
+.ikon .img{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: red;
+    width: 25px;
+    height:  5px;
+    border-radius: 15px;
+}
+.foot{
+    padding: 20px 0;
+    text-align: center;
+    background-color: white;
+    color: black;
+    
+}
